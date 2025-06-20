@@ -16,7 +16,7 @@ This project is an interactive Power BI dashboard built using survey data from d
 
 ### Full Overview
 
-![Dashboard Overview](screenshots/overview.png)
+![Dashboard Overview](screenshots/Overview.png)
 
 Example: When you click on India in the "Country of Survey Takers", all graphs update to show metrics specific to Indian respondents.
 
