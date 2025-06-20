@@ -8,7 +8,7 @@ This project is an interactive Power BI dashboard built using survey data from d
 
 - `Data_Professional_Survey.pbix` – Power BI dashboard file  
 - `Power BI - Final Project.xlsx` – Raw dataset  
-- `screenshots/overview.png` – Full dashboard view
+- `screenshots/Overview.png` – Full dashboard view
 
 ---
 
