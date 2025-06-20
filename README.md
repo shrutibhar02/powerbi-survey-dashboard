@@ -18,7 +18,6 @@ The original dataset (Excel format) was first examined for missing values, irrel
 
 - Removing empty or incomplete rows
 - Standardizing categorical values (e.g., job titles, countries)
-- Renaming columns for clarity
 - Ensuring numeric fields like salaries were correctly typed/formatted
 
 After preprocessing, the cleaned dataset was loaded into Power BI.
@@ -28,7 +27,6 @@ After preprocessing, the cleaned dataset was loaded into Power BI.
 - **Interactive Filters**: Selecting any country, job title, or language dynamically updates the entire dashboard using cross-filtering.
 - **Visual Variety**: Used bar charts, pie/donut charts, treemaps, gauge visuals, and cards to display key insights.
 - **Custom Themes & Formatting**: Applied a consistent color scheme and clean layout for better readability.
-- **Page-level and Report-level Filters**: Implemented to allow specific views and global filtering options.
 - **Responsive Design**: Optimized layout so visuals remain clean and legible across screen sizes.
 
 The dashboard helps users quickly identify trends, compare insights across demographics, and gain a broad understanding of the data industry landscape.
